@@ -34,7 +34,7 @@ Gchat: w000alker@gmail.com
 # Key Shortcuts for Xmonad
 
 <code>Win+Shift+Enter = Alacritty Terminal</code><br>
-<code>Win+Shift+C     = Close APP(Window)
+<code>Win+Shift+C     = Close APP(Window)</code><br>
 <code>Win+O           = App Menu</code><br>
 
 # Screenshot
