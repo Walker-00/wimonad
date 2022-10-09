@@ -28,7 +28,7 @@ If you have some issue please Report me!
 
 Fb: https://facebook.com/walker.fbi
 <br>
-Mail: w000alker@gmail.com, walker@wiwow.tk
+Mail: w000alker@gmail.com, walker@wiwow.tk<br>
 Gchat: w000alker@gmail.com
 
 # Key Shortcuts for Xmonad
