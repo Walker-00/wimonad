@@ -1,6 +1,6 @@
 # wimonad
 Xmonad Ricing Script For [Arch, Gentoo, Ubuntu] based Distros.<br>
-Original is Axarva, I'm just added for Ubuntu.<br>
+Original creator is Axarva, I'm just added for Ubuntu.<br>
 Link to Original Repo: https://github.com/Axarva/dotfiles-2.0
 
 # Installation
